@@ -118,6 +118,10 @@ footer {
   color: black;
 }
 
+.dark-mode header .profile-picture {
+  border: 2px solid black;
+}
+
 .dark-mode header .media-social a {
   color: black;
 }
